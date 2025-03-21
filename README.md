@@ -1,8 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on react js projects
+- 🌱 I’m currently learning react js
 
 ## My Skills
 - Programming Languages: JavaScript, C#
